@@ -1,0 +1,38 @@
+[
+    {
+      "review_id": 4,
+      "product_id": 101,
+      "customer_id": 1004,
+      "rating": 4.5,
+      "review_date": "Excellent quality, exceeded my expectations!"
+    },
+    {
+      "review_id": 6,
+      "product_id": 106,
+      "customer_id": 1006,
+      "rating": 3.0,
+      "review_date": "Good product but not as expected."
+    },
+    {
+      "review_id": 7,
+      "product_id": 107,
+      "customer_id": 1007,
+      "rating": 4.0,
+      "review_date": "Great product, value for money."
+    },
+    {
+      "review_id": 8,
+      "product_id": 108,
+      "customer_id": 1008,
+      "rating": 2.5,
+      "review_date": "The quality could have been better."
+    },
+    {
+        "review_id": 9,
+        "product_id": 109,
+        "customer_id": 1009,
+        "rating": 5.0,
+        "review_date": "Amazing, loved it! Highly recommend."
+    }
+  ]
+  
