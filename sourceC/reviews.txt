@@ -1,4 +1,4 @@
-1|101|1001|1|"Fake product"
-2|102|1002|2.3|"Quality was bad"
-3|103|1003|4.2|"Good"
-5|105|1005|4.5|"Excellent Quality"
+1|101|1001|1|2024-12-23|Fake product.
+2|102|1002|2.3|2024-12-23|Quality was bad.
+3|103|1003|4.2|2024-12-23|Good.
+5|105|1005|4.5|2024-12-23|Excellent Quality!
