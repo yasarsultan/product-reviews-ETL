@@ -20,7 +20,6 @@ def getConnection():
 def createTable():
     connection = getConnection()
     cursor = connection.cursor()
-    print("Creating table...")
     
     cursor.execute(
         sql.SQL(
@@ -39,13 +38,10 @@ def createTable():
     cursor.close()
     connection.close()
 
-    print("Table create successfully.")
-
 
 def insertData(df):
     connection = getConnection()
     cursor = connection.cursor()
-    print("Inserting data into table...")
 
     for index, row in df.iterrows():
         cursor.execute(
@@ -59,6 +55,3 @@ def insertData(df):
         )
     cursor.close()
     connection.close()
-
-    print("Inserted data successfully.")
-
