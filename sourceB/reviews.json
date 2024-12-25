@@ -1,35 +1,35 @@
 [
     {
-      "review_id": 4,
-      "product_id": 101,
-      "customer_id": 1004,
-      "rating": 4.5,
-      "review_date": "2024-12-23",
-      "review_text": "Excellent quality, exceeded my expectations!"
+        "review_id": 4,
+        "product_id": 101,
+        "customer_id": 1004,
+        "rating": 4.5,
+        "review_date": "2024-12-23",
+        "review_text": "Excellent quality, exceeded my expectations!"
     },
     {
-      "review_id": 6,
-      "product_id": 106,
-      "customer_id": 1006,
-      "rating": 3.0,
-      "review_date": "2024-12-23",
-      "review_text": "Good product but not as expected."
+        "review_id": 6,
+        "product_id": 106,
+        "customer_id": 1006,
+        "rating": 3.0,
+        "review_date": "2024-12-23",
+        "review_text": "Good product but not as expected."
     },
     {
-      "review_id": 7,
-      "product_id": 107,
-      "customer_id": 1007,
-      "rating": 4.0,
-      "review_date": "2024-12-23",
-      "review_text": "Great product, value for money."
+        "review_id": 7,
+        "product_id": 107,
+        "customer_id": 1007,
+        "rating": 4.0,
+        "review_date": "2024-12-23",
+        "review_text": "Great product, value for money."
     },
     {
-      "review_id": 8,
-      "product_id": 108,
-      "customer_id": 1008,
-      "rating": 2.5,
-      "review_date": "2024-12-23",
-      "review_text": "The quality could have been better."
+        "review_id": 8,
+        "product_id": 108,
+        "customer_id": 1008,
+        "rating": 2.5,
+        "review_date": "2024-12-23",
+        "review_text": "The quality could have been better."
     },
     {
         "review_id": 9,
@@ -38,6 +38,4005 @@
         "rating": 5.0,
         "review_date": "2024-12-23",
         "review_text": "Amazing, loved it! Highly recommend."
+    },
+    {
+        "review_id": 1001,
+        "product_id": 154,
+        "customer_id": 1528,
+        "rating": 3,
+        "review_date": "2024-07-01",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1002,
+        "product_id": 173,
+        "customer_id": 1009,
+        "rating": 2,
+        "review_date": "2024-07-09",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1003,
+        "product_id": 168,
+        "customer_id": 1111,
+        "rating": 5,
+        "review_date": "2024-09-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1004,
+        "product_id": 193,
+        "customer_id": 1481,
+        "rating": 3,
+        "review_date": "2024-04-29",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1005,
+        "product_id": 168,
+        "customer_id": 1643,
+        "rating": 3,
+        "review_date": "2024-10-04",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1006,
+        "product_id": 185,
+        "customer_id": 1072,
+        "rating": 1,
+        "review_date": "2024-03-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1007,
+        "product_id": 196,
+        "customer_id": 1107,
+        "rating": 4,
+        "review_date": "2024-06-05",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1008,
+        "product_id": 136,
+        "customer_id": 1030,
+        "rating": 3,
+        "review_date": "2024-11-15",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1009,
+        "product_id": 102,
+        "customer_id": 1830,
+        "rating": 3,
+        "review_date": "2024-05-28",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1010,
+        "product_id": 115,
+        "customer_id": 1917,
+        "rating": 2,
+        "review_date": "2024-11-18",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1011,
+        "product_id": 136,
+        "customer_id": 1986,
+        "rating": 4,
+        "review_date": "2024-03-18",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1012,
+        "product_id": 119,
+        "customer_id": 1651,
+        "rating": 1,
+        "review_date": "2024-07-03",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1013,
+        "product_id": 144,
+        "customer_id": 1415,
+        "rating": 3,
+        "review_date": "2024-04-16",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1014,
+        "product_id": 137,
+        "customer_id": 1150,
+        "rating": 5,
+        "review_date": "2024-01-18",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1015,
+        "product_id": 188,
+        "customer_id": 1599,
+        "rating": 5,
+        "review_date": "2024-03-23",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1016,
+        "product_id": 158,
+        "customer_id": 1231,
+        "rating": 1,
+        "review_date": "2024-01-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1017,
+        "product_id": 198,
+        "customer_id": 1995,
+        "rating": 5,
+        "review_date": "2024-10-08",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1018,
+        "product_id": 112,
+        "customer_id": 1534,
+        "rating": 3,
+        "review_date": "2024-07-02",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1019,
+        "product_id": 115,
+        "customer_id": 1462,
+        "rating": 5,
+        "review_date": "2024-07-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1020,
+        "product_id": 177,
+        "customer_id": 1696,
+        "rating": 1,
+        "review_date": "2024-04-10",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1021,
+        "product_id": 188,
+        "customer_id": 1967,
+        "rating": 5,
+        "review_date": "2024-06-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1022,
+        "product_id": 175,
+        "customer_id": 1639,
+        "rating": 5,
+        "review_date": "2024-07-13",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1023,
+        "product_id": 181,
+        "customer_id": 1982,
+        "rating": 5,
+        "review_date": "2024-07-15",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1024,
+        "product_id": 136,
+        "customer_id": 1926,
+        "rating": 1,
+        "review_date": "2024-09-19",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1025,
+        "product_id": 101,
+        "customer_id": 1221,
+        "rating": 2,
+        "review_date": "2024-06-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1026,
+        "product_id": 178,
+        "customer_id": 1362,
+        "rating": 4,
+        "review_date": "2024-03-17",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1027,
+        "product_id": 128,
+        "customer_id": 1059,
+        "rating": 4,
+        "review_date": "2024-12-04",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1028,
+        "product_id": 143,
+        "customer_id": 1678,
+        "rating": 1,
+        "review_date": "2024-02-15",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1029,
+        "product_id": 157,
+        "customer_id": 1518,
+        "rating": 5,
+        "review_date": "2024-03-14",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1030,
+        "product_id": 177,
+        "customer_id": 1063,
+        "rating": 4,
+        "review_date": "2024-08-19",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1031,
+        "product_id": 145,
+        "customer_id": 1063,
+        "rating": 4,
+        "review_date": "2024-09-25",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1032,
+        "product_id": 100,
+        "customer_id": 1252,
+        "rating": 5,
+        "review_date": "2024-09-29",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1033,
+        "product_id": 185,
+        "customer_id": 1100,
+        "rating": 3,
+        "review_date": "2024-06-12",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1034,
+        "product_id": 126,
+        "customer_id": 1479,
+        "rating": 3,
+        "review_date": "2024-06-06",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1035,
+        "product_id": 102,
+        "customer_id": 1100,
+        "rating": 1,
+        "review_date": "2024-10-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1036,
+        "product_id": 132,
+        "customer_id": 1707,
+        "rating": 4,
+        "review_date": "2024-12-07",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1037,
+        "product_id": 155,
+        "customer_id": 1761,
+        "rating": 4,
+        "review_date": "2024-09-14",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1038,
+        "product_id": 192,
+        "customer_id": 1219,
+        "rating": 4,
+        "review_date": "2024-05-31",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1039,
+        "product_id": 138,
+        "customer_id": 1796,
+        "rating": 2,
+        "review_date": "2024-02-10",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1040,
+        "product_id": 200,
+        "customer_id": 1046,
+        "rating": 4,
+        "review_date": "2024-08-10",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1041,
+        "product_id": 164,
+        "customer_id": 1066,
+        "rating": 3,
+        "review_date": "2024-04-18",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1042,
+        "product_id": 111,
+        "customer_id": 1184,
+        "rating": 4,
+        "review_date": "2024-07-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1043,
+        "product_id": 200,
+        "customer_id": 1773,
+        "rating": 4,
+        "review_date": "2024-04-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1044,
+        "product_id": 111,
+        "customer_id": 1560,
+        "rating": 4,
+        "review_date": "2024-11-11",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1045,
+        "product_id": 193,
+        "customer_id": 1680,
+        "rating": 4,
+        "review_date": "2024-10-14",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1046,
+        "product_id": 143,
+        "customer_id": 1374,
+        "rating": 2,
+        "review_date": "2024-03-05",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1047,
+        "product_id": 158,
+        "customer_id": 1901,
+        "rating": 2,
+        "review_date": "2024-09-29",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1048,
+        "product_id": 158,
+        "customer_id": 1826,
+        "rating": 4,
+        "review_date": "2024-11-23",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1049,
+        "product_id": 173,
+        "customer_id": 1627,
+        "rating": 4,
+        "review_date": "2024-09-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1050,
+        "product_id": 115,
+        "customer_id": 1679,
+        "rating": 1,
+        "review_date": "2024-11-03",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1051,
+        "product_id": 154,
+        "customer_id": 1846,
+        "rating": 3,
+        "review_date": "2024-09-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1052,
+        "product_id": 105,
+        "customer_id": 1213,
+        "rating": 1,
+        "review_date": "2024-11-25",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1053,
+        "product_id": 128,
+        "customer_id": 1260,
+        "rating": 5,
+        "review_date": "2024-11-22",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1054,
+        "product_id": 179,
+        "customer_id": 1150,
+        "rating": 3,
+        "review_date": "2024-06-25",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1055,
+        "product_id": 124,
+        "customer_id": 1192,
+        "rating": 5,
+        "review_date": "2024-01-14",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1056,
+        "product_id": 136,
+        "customer_id": 1106,
+        "rating": 3,
+        "review_date": "2024-10-17",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1057,
+        "product_id": 129,
+        "customer_id": 1429,
+        "rating": 4,
+        "review_date": "2024-03-10",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1058,
+        "product_id": 167,
+        "customer_id": 1632,
+        "rating": 4,
+        "review_date": "2024-11-05",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1059,
+        "product_id": 130,
+        "customer_id": 1228,
+        "rating": 4,
+        "review_date": "2024-02-03",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1060,
+        "product_id": 145,
+        "customer_id": 1026,
+        "rating": 4,
+        "review_date": "2024-02-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1061,
+        "product_id": 186,
+        "customer_id": 1173,
+        "rating": 4,
+        "review_date": "2024-03-06",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1062,
+        "product_id": 163,
+        "customer_id": 1495,
+        "rating": 2,
+        "review_date": "2024-02-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1063,
+        "product_id": 107,
+        "customer_id": 1823,
+        "rating": 5,
+        "review_date": "2024-01-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1064,
+        "product_id": 112,
+        "customer_id": 1262,
+        "rating": 3,
+        "review_date": "2024-05-18",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1065,
+        "product_id": 197,
+        "customer_id": 1375,
+        "rating": 3,
+        "review_date": "2024-09-26",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1066,
+        "product_id": 133,
+        "customer_id": 1252,
+        "rating": 5,
+        "review_date": "2024-03-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1067,
+        "product_id": 151,
+        "customer_id": 1590,
+        "rating": 5,
+        "review_date": "2024-01-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1068,
+        "product_id": 133,
+        "customer_id": 1627,
+        "rating": 2,
+        "review_date": "2024-04-14",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1069,
+        "product_id": 178,
+        "customer_id": 1505,
+        "rating": 1,
+        "review_date": "2024-01-21",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1070,
+        "product_id": 192,
+        "customer_id": 1129,
+        "rating": 5,
+        "review_date": "2024-08-23",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1071,
+        "product_id": 193,
+        "customer_id": 1113,
+        "rating": 4,
+        "review_date": "2024-07-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1072,
+        "product_id": 125,
+        "customer_id": 1669,
+        "rating": 2,
+        "review_date": "2024-05-31",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1073,
+        "product_id": 179,
+        "customer_id": 1803,
+        "rating": 3,
+        "review_date": "2024-01-17",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1074,
+        "product_id": 164,
+        "customer_id": 1026,
+        "rating": 2,
+        "review_date": "2024-09-07",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1075,
+        "product_id": 105,
+        "customer_id": 1209,
+        "rating": 5,
+        "review_date": "2024-01-18",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1076,
+        "product_id": 181,
+        "customer_id": 1631,
+        "rating": 4,
+        "review_date": "2024-06-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1077,
+        "product_id": 128,
+        "customer_id": 1802,
+        "rating": 1,
+        "review_date": "2024-04-28",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1078,
+        "product_id": 196,
+        "customer_id": 1150,
+        "rating": 3,
+        "review_date": "2024-05-21",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1079,
+        "product_id": 100,
+        "customer_id": 1368,
+        "rating": 5,
+        "review_date": "2024-11-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1080,
+        "product_id": 115,
+        "customer_id": 1643,
+        "rating": 4,
+        "review_date": "2024-06-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1081,
+        "product_id": 163,
+        "customer_id": 1010,
+        "rating": 2,
+        "review_date": "2024-10-12",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1082,
+        "product_id": 189,
+        "customer_id": 1450,
+        "rating": 5,
+        "review_date": "2024-11-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1083,
+        "product_id": 131,
+        "customer_id": 1870,
+        "rating": 2,
+        "review_date": "2024-12-04",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1084,
+        "product_id": 177,
+        "customer_id": 1069,
+        "rating": 5,
+        "review_date": "2024-07-25",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1085,
+        "product_id": 183,
+        "customer_id": 1922,
+        "rating": 5,
+        "review_date": "2024-06-13",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1086,
+        "product_id": 103,
+        "customer_id": 1871,
+        "rating": 3,
+        "review_date": "2024-02-08",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1087,
+        "product_id": 200,
+        "customer_id": 1132,
+        "rating": 1,
+        "review_date": "2024-04-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1088,
+        "product_id": 115,
+        "customer_id": 1709,
+        "rating": 5,
+        "review_date": "2024-08-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1089,
+        "product_id": 123,
+        "customer_id": 1059,
+        "rating": 5,
+        "review_date": "2024-02-09",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1090,
+        "product_id": 106,
+        "customer_id": 1979,
+        "rating": 2,
+        "review_date": "2024-01-15",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1091,
+        "product_id": 158,
+        "customer_id": 1785,
+        "rating": 2,
+        "review_date": "2024-05-10",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1092,
+        "product_id": 132,
+        "customer_id": 1130,
+        "rating": 3,
+        "review_date": "2024-08-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1093,
+        "product_id": 127,
+        "customer_id": 1276,
+        "rating": 3,
+        "review_date": "2024-09-10",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1094,
+        "product_id": 193,
+        "customer_id": 1189,
+        "rating": 1,
+        "review_date": "2024-07-07",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1095,
+        "product_id": 126,
+        "customer_id": 1015,
+        "rating": 2,
+        "review_date": "2024-04-02",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1096,
+        "product_id": 169,
+        "customer_id": 1427,
+        "rating": 3,
+        "review_date": "2024-05-19",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1097,
+        "product_id": 177,
+        "customer_id": 1244,
+        "rating": 5,
+        "review_date": "2024-04-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1098,
+        "product_id": 154,
+        "customer_id": 1290,
+        "rating": 5,
+        "review_date": "2024-10-01",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1099,
+        "product_id": 197,
+        "customer_id": 1324,
+        "rating": 5,
+        "review_date": "2024-03-12",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1100,
+        "product_id": 192,
+        "customer_id": 1951,
+        "rating": 5,
+        "review_date": "2024-03-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1101,
+        "product_id": 117,
+        "customer_id": 1605,
+        "rating": 3,
+        "review_date": "2024-10-30",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1102,
+        "product_id": 165,
+        "customer_id": 1290,
+        "rating": 5,
+        "review_date": "2024-09-18",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1103,
+        "product_id": 198,
+        "customer_id": 1101,
+        "rating": 2,
+        "review_date": "2024-06-04",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1104,
+        "product_id": 179,
+        "customer_id": 1140,
+        "rating": 5,
+        "review_date": "2024-08-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1105,
+        "product_id": 100,
+        "customer_id": 1153,
+        "rating": 1,
+        "review_date": "2024-10-08",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1106,
+        "product_id": 103,
+        "customer_id": 1157,
+        "rating": 4,
+        "review_date": "2024-10-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1107,
+        "product_id": 151,
+        "customer_id": 1510,
+        "rating": 3,
+        "review_date": "2024-08-03",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1108,
+        "product_id": 117,
+        "customer_id": 1225,
+        "rating": 2,
+        "review_date": "2024-01-15",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1109,
+        "product_id": 196,
+        "customer_id": 1352,
+        "rating": 5,
+        "review_date": "2024-07-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1110,
+        "product_id": 140,
+        "customer_id": 1604,
+        "rating": 3,
+        "review_date": "2024-09-19",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1111,
+        "product_id": 133,
+        "customer_id": 1256,
+        "rating": 1,
+        "review_date": "2024-03-27",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1112,
+        "product_id": 130,
+        "customer_id": 1157,
+        "rating": 4,
+        "review_date": "2024-02-19",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1113,
+        "product_id": 118,
+        "customer_id": 1506,
+        "rating": 3,
+        "review_date": "2024-11-23",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1114,
+        "product_id": 158,
+        "customer_id": 1227,
+        "rating": 5,
+        "review_date": "2024-03-18",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1115,
+        "product_id": 192,
+        "customer_id": 1120,
+        "rating": 2,
+        "review_date": "2024-05-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1116,
+        "product_id": 182,
+        "customer_id": 1880,
+        "rating": 3,
+        "review_date": "2024-08-20",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1117,
+        "product_id": 154,
+        "customer_id": 1411,
+        "rating": 4,
+        "review_date": "2024-10-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1118,
+        "product_id": 153,
+        "customer_id": 1702,
+        "rating": 2,
+        "review_date": "2024-01-13",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1119,
+        "product_id": 140,
+        "customer_id": 1468,
+        "rating": 4,
+        "review_date": "2024-06-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1120,
+        "product_id": 120,
+        "customer_id": 1949,
+        "rating": 2,
+        "review_date": "2024-04-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1121,
+        "product_id": 180,
+        "customer_id": 1597,
+        "rating": 2,
+        "review_date": "2024-04-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1122,
+        "product_id": 155,
+        "customer_id": 1194,
+        "rating": 2,
+        "review_date": "2024-03-30",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1123,
+        "product_id": 187,
+        "customer_id": 1898,
+        "rating": 1,
+        "review_date": "2024-10-03",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1124,
+        "product_id": 109,
+        "customer_id": 1657,
+        "rating": 1,
+        "review_date": "2024-07-11",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1125,
+        "product_id": 164,
+        "customer_id": 1125,
+        "rating": 5,
+        "review_date": "2024-02-04",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1126,
+        "product_id": 188,
+        "customer_id": 1003,
+        "rating": 4,
+        "review_date": "2024-02-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1127,
+        "product_id": 200,
+        "customer_id": 1610,
+        "rating": 1,
+        "review_date": "2024-03-12",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1128,
+        "product_id": 117,
+        "customer_id": 1295,
+        "rating": 4,
+        "review_date": "2024-06-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1129,
+        "product_id": 134,
+        "customer_id": 1746,
+        "rating": 1,
+        "review_date": "2024-01-21",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1130,
+        "product_id": 126,
+        "customer_id": 1405,
+        "rating": 2,
+        "review_date": "2024-09-10",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1131,
+        "product_id": 160,
+        "customer_id": 1274,
+        "rating": 5,
+        "review_date": "2024-03-29",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1132,
+        "product_id": 120,
+        "customer_id": 1789,
+        "rating": 3,
+        "review_date": "2024-04-08",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1133,
+        "product_id": 115,
+        "customer_id": 1696,
+        "rating": 3,
+        "review_date": "2024-02-17",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1134,
+        "product_id": 114,
+        "customer_id": 1968,
+        "rating": 4,
+        "review_date": "2024-03-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1135,
+        "product_id": 123,
+        "customer_id": 1157,
+        "rating": 4,
+        "review_date": "2024-02-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1136,
+        "product_id": 172,
+        "customer_id": 1506,
+        "rating": 4,
+        "review_date": "2024-07-19",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1137,
+        "product_id": 199,
+        "customer_id": 1422,
+        "rating": 1,
+        "review_date": "2024-07-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1138,
+        "product_id": 167,
+        "customer_id": 1556,
+        "rating": 5,
+        "review_date": "2024-09-06",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1139,
+        "product_id": 176,
+        "customer_id": 1025,
+        "rating": 5,
+        "review_date": "2024-08-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1140,
+        "product_id": 126,
+        "customer_id": 1272,
+        "rating": 2,
+        "review_date": "2024-04-02",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1141,
+        "product_id": 156,
+        "customer_id": 1685,
+        "rating": 1,
+        "review_date": "2024-05-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1142,
+        "product_id": 125,
+        "customer_id": 1916,
+        "rating": 1,
+        "review_date": "2024-12-08",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1143,
+        "product_id": 133,
+        "customer_id": 1196,
+        "rating": 5,
+        "review_date": "2024-09-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1144,
+        "product_id": 186,
+        "customer_id": 1051,
+        "rating": 1,
+        "review_date": "2024-05-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1145,
+        "product_id": 125,
+        "customer_id": 1321,
+        "rating": 1,
+        "review_date": "2024-06-29",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1146,
+        "product_id": 176,
+        "customer_id": 1567,
+        "rating": 1,
+        "review_date": "2024-09-06",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1147,
+        "product_id": 184,
+        "customer_id": 1866,
+        "rating": 5,
+        "review_date": "2024-11-11",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1148,
+        "product_id": 160,
+        "customer_id": 1260,
+        "rating": 1,
+        "review_date": "2024-10-06",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1149,
+        "product_id": 117,
+        "customer_id": 1891,
+        "rating": 4,
+        "review_date": "2024-01-30",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1150,
+        "product_id": 175,
+        "customer_id": 1813,
+        "rating": 3,
+        "review_date": "2024-02-14",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1151,
+        "product_id": 174,
+        "customer_id": 1951,
+        "rating": 3,
+        "review_date": "2024-02-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1152,
+        "product_id": 166,
+        "customer_id": 1409,
+        "rating": 5,
+        "review_date": "2024-05-13",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1153,
+        "product_id": 188,
+        "customer_id": 1376,
+        "rating": 1,
+        "review_date": "2024-11-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1154,
+        "product_id": 149,
+        "customer_id": 1532,
+        "rating": 1,
+        "review_date": "2024-02-14",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1155,
+        "product_id": 163,
+        "customer_id": 1766,
+        "rating": 1,
+        "review_date": "2024-11-06",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1156,
+        "product_id": 104,
+        "customer_id": 1181,
+        "rating": 4,
+        "review_date": "2024-07-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1157,
+        "product_id": 183,
+        "customer_id": 1657,
+        "rating": 4,
+        "review_date": "2024-08-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1158,
+        "product_id": 182,
+        "customer_id": 1680,
+        "rating": 4,
+        "review_date": "2024-05-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1159,
+        "product_id": 131,
+        "customer_id": 1519,
+        "rating": 1,
+        "review_date": "2024-01-13",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1160,
+        "product_id": 100,
+        "customer_id": 1580,
+        "rating": 2,
+        "review_date": "2024-09-24",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1161,
+        "product_id": 184,
+        "customer_id": 1119,
+        "rating": 1,
+        "review_date": "2024-08-02",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1162,
+        "product_id": 159,
+        "customer_id": 1206,
+        "rating": 5,
+        "review_date": "2024-06-25",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1163,
+        "product_id": 145,
+        "customer_id": 1023,
+        "rating": 1,
+        "review_date": "2024-06-09",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1164,
+        "product_id": 167,
+        "customer_id": 1187,
+        "rating": 3,
+        "review_date": "2024-11-24",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1165,
+        "product_id": 142,
+        "customer_id": 1535,
+        "rating": 4,
+        "review_date": "2024-06-07",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1166,
+        "product_id": 170,
+        "customer_id": 1896,
+        "rating": 3,
+        "review_date": "2024-06-15",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1167,
+        "product_id": 142,
+        "customer_id": 1476,
+        "rating": 1,
+        "review_date": "2024-04-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1168,
+        "product_id": 163,
+        "customer_id": 1865,
+        "rating": 1,
+        "review_date": "2024-03-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1169,
+        "product_id": 198,
+        "customer_id": 1355,
+        "rating": 2,
+        "review_date": "2024-02-08",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1170,
+        "product_id": 101,
+        "customer_id": 1493,
+        "rating": 4,
+        "review_date": "2024-07-20",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1171,
+        "product_id": 187,
+        "customer_id": 1418,
+        "rating": 1,
+        "review_date": "2024-06-16",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1172,
+        "product_id": 119,
+        "customer_id": 1886,
+        "rating": 4,
+        "review_date": "2024-03-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1173,
+        "product_id": 136,
+        "customer_id": 1788,
+        "rating": 1,
+        "review_date": "2024-10-23",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1174,
+        "product_id": 181,
+        "customer_id": 1158,
+        "rating": 2,
+        "review_date": "2024-03-04",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1175,
+        "product_id": 135,
+        "customer_id": 1819,
+        "rating": 1,
+        "review_date": "2024-06-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1176,
+        "product_id": 196,
+        "customer_id": 1767,
+        "rating": 5,
+        "review_date": "2024-08-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1177,
+        "product_id": 156,
+        "customer_id": 1116,
+        "rating": 4,
+        "review_date": "2024-06-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1178,
+        "product_id": 104,
+        "customer_id": 1513,
+        "rating": 1,
+        "review_date": "2024-01-23",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1179,
+        "product_id": 132,
+        "customer_id": 1854,
+        "rating": 3,
+        "review_date": "2024-10-23",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1180,
+        "product_id": 129,
+        "customer_id": 1764,
+        "rating": 2,
+        "review_date": "2024-06-08",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1181,
+        "product_id": 196,
+        "customer_id": 1575,
+        "rating": 2,
+        "review_date": "2024-06-16",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1182,
+        "product_id": 183,
+        "customer_id": 1743,
+        "rating": 4,
+        "review_date": "2024-10-30",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1183,
+        "product_id": 107,
+        "customer_id": 1223,
+        "rating": 2,
+        "review_date": "2024-05-07",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1184,
+        "product_id": 147,
+        "customer_id": 1278,
+        "rating": 5,
+        "review_date": "2024-07-23",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1185,
+        "product_id": 169,
+        "customer_id": 1174,
+        "rating": 4,
+        "review_date": "2024-10-25",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1186,
+        "product_id": 120,
+        "customer_id": 1320,
+        "rating": 4,
+        "review_date": "2024-08-06",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1187,
+        "product_id": 143,
+        "customer_id": 1491,
+        "rating": 5,
+        "review_date": "2024-04-29",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1188,
+        "product_id": 166,
+        "customer_id": 1005,
+        "rating": 5,
+        "review_date": "2024-01-13",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1189,
+        "product_id": 186,
+        "customer_id": 1823,
+        "rating": 2,
+        "review_date": "2024-08-11",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1190,
+        "product_id": 121,
+        "customer_id": 1345,
+        "rating": 4,
+        "review_date": "2024-11-03",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1191,
+        "product_id": 173,
+        "customer_id": 1661,
+        "rating": 4,
+        "review_date": "2024-01-20",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1192,
+        "product_id": 193,
+        "customer_id": 1338,
+        "rating": 5,
+        "review_date": "2024-01-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1193,
+        "product_id": 102,
+        "customer_id": 1412,
+        "rating": 2,
+        "review_date": "2024-05-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1194,
+        "product_id": 195,
+        "customer_id": 1591,
+        "rating": 1,
+        "review_date": "2024-06-12",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1195,
+        "product_id": 134,
+        "customer_id": 1867,
+        "rating": 1,
+        "review_date": "2024-02-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1196,
+        "product_id": 117,
+        "customer_id": 1478,
+        "rating": 5,
+        "review_date": "2024-04-29",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1197,
+        "product_id": 177,
+        "customer_id": 1415,
+        "rating": 3,
+        "review_date": "2023-12-31",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1198,
+        "product_id": 165,
+        "customer_id": 1371,
+        "rating": 2,
+        "review_date": "2024-05-05",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1199,
+        "product_id": 128,
+        "customer_id": 1219,
+        "rating": 4,
+        "review_date": "2024-05-15",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1200,
+        "product_id": 169,
+        "customer_id": 1589,
+        "rating": 2,
+        "review_date": "2024-03-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1201,
+        "product_id": 143,
+        "customer_id": 1810,
+        "rating": 1,
+        "review_date": "2024-07-29",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1202,
+        "product_id": 193,
+        "customer_id": 1487,
+        "rating": 1,
+        "review_date": "2024-07-13",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1203,
+        "product_id": 133,
+        "customer_id": 1828,
+        "rating": 2,
+        "review_date": "2024-05-16",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1204,
+        "product_id": 142,
+        "customer_id": 1325,
+        "rating": 5,
+        "review_date": "2024-07-27",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1205,
+        "product_id": 127,
+        "customer_id": 1555,
+        "rating": 2,
+        "review_date": "2024-01-12",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1206,
+        "product_id": 157,
+        "customer_id": 1785,
+        "rating": 1,
+        "review_date": "2023-12-31",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1207,
+        "product_id": 117,
+        "customer_id": 1242,
+        "rating": 3,
+        "review_date": "2024-08-27",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1208,
+        "product_id": 191,
+        "customer_id": 1541,
+        "rating": 4,
+        "review_date": "2024-05-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1209,
+        "product_id": 164,
+        "customer_id": 1504,
+        "rating": 3,
+        "review_date": "2024-08-03",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1210,
+        "product_id": 109,
+        "customer_id": 1842,
+        "rating": 4,
+        "review_date": "2024-09-05",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1211,
+        "product_id": 123,
+        "customer_id": 1045,
+        "rating": 4,
+        "review_date": "2024-11-05",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1212,
+        "product_id": 105,
+        "customer_id": 1068,
+        "rating": 1,
+        "review_date": "2024-10-11",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1213,
+        "product_id": 108,
+        "customer_id": 1608,
+        "rating": 5,
+        "review_date": "2024-10-03",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1214,
+        "product_id": 139,
+        "customer_id": 1739,
+        "rating": 3,
+        "review_date": "2024-01-09",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1215,
+        "product_id": 171,
+        "customer_id": 1875,
+        "rating": 1,
+        "review_date": "2024-02-29",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1216,
+        "product_id": 119,
+        "customer_id": 1364,
+        "rating": 4,
+        "review_date": "2024-10-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1217,
+        "product_id": 150,
+        "customer_id": 1498,
+        "rating": 2,
+        "review_date": "2024-09-10",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1218,
+        "product_id": 191,
+        "customer_id": 1827,
+        "rating": 4,
+        "review_date": "2024-06-15",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1219,
+        "product_id": 110,
+        "customer_id": 1514,
+        "rating": 5,
+        "review_date": "2024-11-14",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1220,
+        "product_id": 141,
+        "customer_id": 1882,
+        "rating": 4,
+        "review_date": "2024-10-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1221,
+        "product_id": 161,
+        "customer_id": 1048,
+        "rating": 4,
+        "review_date": "2024-04-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1222,
+        "product_id": 126,
+        "customer_id": 1361,
+        "rating": 3,
+        "review_date": "2024-10-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1223,
+        "product_id": 123,
+        "customer_id": 1141,
+        "rating": 4,
+        "review_date": "2024-04-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1224,
+        "product_id": 126,
+        "customer_id": 1804,
+        "rating": 2,
+        "review_date": "2024-09-29",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1225,
+        "product_id": 137,
+        "customer_id": 1873,
+        "rating": 5,
+        "review_date": "2024-07-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1226,
+        "product_id": 178,
+        "customer_id": 1883,
+        "rating": 4,
+        "review_date": "2024-07-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1227,
+        "product_id": 124,
+        "customer_id": 1482,
+        "rating": 2,
+        "review_date": "2024-08-28",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1228,
+        "product_id": 115,
+        "customer_id": 1897,
+        "rating": 5,
+        "review_date": "2024-01-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1229,
+        "product_id": 140,
+        "customer_id": 1488,
+        "rating": 2,
+        "review_date": "2024-11-01",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1230,
+        "product_id": 153,
+        "customer_id": 1361,
+        "rating": 3,
+        "review_date": "2024-11-25",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1231,
+        "product_id": 177,
+        "customer_id": 1857,
+        "rating": 1,
+        "review_date": "2024-08-16",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1232,
+        "product_id": 118,
+        "customer_id": 1685,
+        "rating": 5,
+        "review_date": "2024-04-01",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1233,
+        "product_id": 160,
+        "customer_id": 1808,
+        "rating": 1,
+        "review_date": "2024-10-20",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1234,
+        "product_id": 136,
+        "customer_id": 1684,
+        "rating": 4,
+        "review_date": "2024-08-26",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1235,
+        "product_id": 146,
+        "customer_id": 1170,
+        "rating": 5,
+        "review_date": "2024-07-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1236,
+        "product_id": 162,
+        "customer_id": 1641,
+        "rating": 1,
+        "review_date": "2024-07-10",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1237,
+        "product_id": 133,
+        "customer_id": 1652,
+        "rating": 1,
+        "review_date": "2024-09-24",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1238,
+        "product_id": 172,
+        "customer_id": 1678,
+        "rating": 3,
+        "review_date": "2024-10-17",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1239,
+        "product_id": 132,
+        "customer_id": 1140,
+        "rating": 1,
+        "review_date": "2024-01-23",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1240,
+        "product_id": 130,
+        "customer_id": 1031,
+        "rating": 1,
+        "review_date": "2024-06-14",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1241,
+        "product_id": 138,
+        "customer_id": 1233,
+        "rating": 5,
+        "review_date": "2024-10-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1242,
+        "product_id": 135,
+        "customer_id": 1799,
+        "rating": 4,
+        "review_date": "2024-04-05",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1243,
+        "product_id": 185,
+        "customer_id": 1729,
+        "rating": 4,
+        "review_date": "2024-08-10",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1244,
+        "product_id": 173,
+        "customer_id": 1528,
+        "rating": 4,
+        "review_date": "2024-06-17",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1245,
+        "product_id": 134,
+        "customer_id": 1757,
+        "rating": 4,
+        "review_date": "2024-11-23",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1246,
+        "product_id": 149,
+        "customer_id": 1704,
+        "rating": 3,
+        "review_date": "2024-01-27",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1247,
+        "product_id": 147,
+        "customer_id": 1080,
+        "rating": 5,
+        "review_date": "2024-11-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1248,
+        "product_id": 156,
+        "customer_id": 1654,
+        "rating": 5,
+        "review_date": "2024-03-11",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1249,
+        "product_id": 146,
+        "customer_id": 1650,
+        "rating": 3,
+        "review_date": "2024-10-03",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1250,
+        "product_id": 159,
+        "customer_id": 1879,
+        "rating": 1,
+        "review_date": "2024-08-21",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1251,
+        "product_id": 138,
+        "customer_id": 1172,
+        "rating": 2,
+        "review_date": "2024-10-31",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1252,
+        "product_id": 130,
+        "customer_id": 1107,
+        "rating": 4,
+        "review_date": "2024-03-07",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1253,
+        "product_id": 161,
+        "customer_id": 1745,
+        "rating": 4,
+        "review_date": "2024-04-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1254,
+        "product_id": 153,
+        "customer_id": 1803,
+        "rating": 2,
+        "review_date": "2024-07-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1255,
+        "product_id": 189,
+        "customer_id": 1214,
+        "rating": 4,
+        "review_date": "2024-03-14",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1256,
+        "product_id": 183,
+        "customer_id": 1024,
+        "rating": 5,
+        "review_date": "2024-08-28",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1257,
+        "product_id": 196,
+        "customer_id": 1169,
+        "rating": 1,
+        "review_date": "2024-06-30",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1258,
+        "product_id": 108,
+        "customer_id": 1006,
+        "rating": 5,
+        "review_date": "2024-03-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1259,
+        "product_id": 115,
+        "customer_id": 1415,
+        "rating": 3,
+        "review_date": "2024-08-11",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1260,
+        "product_id": 163,
+        "customer_id": 1790,
+        "rating": 4,
+        "review_date": "2024-09-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1261,
+        "product_id": 183,
+        "customer_id": 1797,
+        "rating": 4,
+        "review_date": "2024-02-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1262,
+        "product_id": 180,
+        "customer_id": 1481,
+        "rating": 5,
+        "review_date": "2024-03-07",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1263,
+        "product_id": 134,
+        "customer_id": 1686,
+        "rating": 4,
+        "review_date": "2024-06-19",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1264,
+        "product_id": 139,
+        "customer_id": 1562,
+        "rating": 5,
+        "review_date": "2024-09-06",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1265,
+        "product_id": 169,
+        "customer_id": 1643,
+        "rating": 1,
+        "review_date": "2024-06-16",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1266,
+        "product_id": 109,
+        "customer_id": 1017,
+        "rating": 1,
+        "review_date": "2024-03-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1267,
+        "product_id": 152,
+        "customer_id": 1119,
+        "rating": 4,
+        "review_date": "2024-02-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1268,
+        "product_id": 119,
+        "customer_id": 1935,
+        "rating": 4,
+        "review_date": "2024-02-20",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1269,
+        "product_id": 192,
+        "customer_id": 1288,
+        "rating": 5,
+        "review_date": "2024-07-01",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1270,
+        "product_id": 145,
+        "customer_id": 1666,
+        "rating": 4,
+        "review_date": "2024-08-30",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1271,
+        "product_id": 174,
+        "customer_id": 1768,
+        "rating": 1,
+        "review_date": "2024-10-07",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1272,
+        "product_id": 135,
+        "customer_id": 1101,
+        "rating": 1,
+        "review_date": "2024-04-24",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1273,
+        "product_id": 132,
+        "customer_id": 1972,
+        "rating": 5,
+        "review_date": "2024-11-05",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1274,
+        "product_id": 191,
+        "customer_id": 1916,
+        "rating": 3,
+        "review_date": "2024-02-28",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1275,
+        "product_id": 112,
+        "customer_id": 1542,
+        "rating": 1,
+        "review_date": "2024-05-04",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1276,
+        "product_id": 158,
+        "customer_id": 1392,
+        "rating": 2,
+        "review_date": "2024-08-24",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1277,
+        "product_id": 144,
+        "customer_id": 1453,
+        "rating": 4,
+        "review_date": "2024-08-21",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1278,
+        "product_id": 130,
+        "customer_id": 1081,
+        "rating": 2,
+        "review_date": "2024-09-25",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1279,
+        "product_id": 171,
+        "customer_id": 1691,
+        "rating": 3,
+        "review_date": "2024-10-08",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1280,
+        "product_id": 108,
+        "customer_id": 1912,
+        "rating": 3,
+        "review_date": "2024-08-24",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1281,
+        "product_id": 184,
+        "customer_id": 1182,
+        "rating": 4,
+        "review_date": "2024-09-09",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1282,
+        "product_id": 176,
+        "customer_id": 1071,
+        "rating": 4,
+        "review_date": "2024-08-18",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1283,
+        "product_id": 156,
+        "customer_id": 1158,
+        "rating": 3,
+        "review_date": "2024-07-28",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1284,
+        "product_id": 103,
+        "customer_id": 1958,
+        "rating": 2,
+        "review_date": "2024-07-20",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1285,
+        "product_id": 132,
+        "customer_id": 1677,
+        "rating": 2,
+        "review_date": "2024-03-21",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1286,
+        "product_id": 105,
+        "customer_id": 1120,
+        "rating": 5,
+        "review_date": "2024-09-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1287,
+        "product_id": 109,
+        "customer_id": 1697,
+        "rating": 3,
+        "review_date": "2024-04-04",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1288,
+        "product_id": 189,
+        "customer_id": 1378,
+        "rating": 1,
+        "review_date": "2024-06-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1289,
+        "product_id": 124,
+        "customer_id": 1294,
+        "rating": 4,
+        "review_date": "2024-07-26",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1290,
+        "product_id": 180,
+        "customer_id": 1791,
+        "rating": 4,
+        "review_date": "2024-07-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1291,
+        "product_id": 155,
+        "customer_id": 1027,
+        "rating": 2,
+        "review_date": "2024-05-04",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1292,
+        "product_id": 107,
+        "customer_id": 1307,
+        "rating": 2,
+        "review_date": "2024-03-25",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1293,
+        "product_id": 130,
+        "customer_id": 1905,
+        "rating": 2,
+        "review_date": "2024-08-07",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1294,
+        "product_id": 157,
+        "customer_id": 1362,
+        "rating": 3,
+        "review_date": "2024-06-05",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1295,
+        "product_id": 187,
+        "customer_id": 1878,
+        "rating": 5,
+        "review_date": "2024-07-11",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1296,
+        "product_id": 180,
+        "customer_id": 1223,
+        "rating": 4,
+        "review_date": "2024-06-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1297,
+        "product_id": 142,
+        "customer_id": 1432,
+        "rating": 5,
+        "review_date": "2024-01-28",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1298,
+        "product_id": 172,
+        "customer_id": 1204,
+        "rating": 4,
+        "review_date": "2024-05-13",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1299,
+        "product_id": 141,
+        "customer_id": 1904,
+        "rating": 3,
+        "review_date": "2024-01-05",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1300,
+        "product_id": 127,
+        "customer_id": 1308,
+        "rating": 5,
+        "review_date": "2024-11-05",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1301,
+        "product_id": 125,
+        "customer_id": 1504,
+        "rating": 4,
+        "review_date": "2024-03-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1302,
+        "product_id": 185,
+        "customer_id": 1799,
+        "rating": 2,
+        "review_date": "2024-04-11",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1303,
+        "product_id": 167,
+        "customer_id": 1728,
+        "rating": 3,
+        "review_date": "2024-02-14",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1304,
+        "product_id": 110,
+        "customer_id": 1310,
+        "rating": 5,
+        "review_date": "2024-11-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1305,
+        "product_id": 121,
+        "customer_id": 1250,
+        "rating": 4,
+        "review_date": "2024-03-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1306,
+        "product_id": 193,
+        "customer_id": 1977,
+        "rating": 4,
+        "review_date": "2024-07-25",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1307,
+        "product_id": 181,
+        "customer_id": 1193,
+        "rating": 1,
+        "review_date": "2024-02-11",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1308,
+        "product_id": 108,
+        "customer_id": 1538,
+        "rating": 3,
+        "review_date": "2024-01-22",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1309,
+        "product_id": 183,
+        "customer_id": 1342,
+        "rating": 1,
+        "review_date": "2024-08-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1310,
+        "product_id": 103,
+        "customer_id": 1010,
+        "rating": 1,
+        "review_date": "2024-10-24",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1311,
+        "product_id": 122,
+        "customer_id": 1546,
+        "rating": 2,
+        "review_date": "2024-10-11",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1312,
+        "product_id": 172,
+        "customer_id": 1052,
+        "rating": 1,
+        "review_date": "2024-07-29",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1313,
+        "product_id": 101,
+        "customer_id": 1106,
+        "rating": 4,
+        "review_date": "2024-09-24",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1314,
+        "product_id": 130,
+        "customer_id": 1602,
+        "rating": 1,
+        "review_date": "2024-09-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1315,
+        "product_id": 195,
+        "customer_id": 1986,
+        "rating": 3,
+        "review_date": "2024-07-25",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1316,
+        "product_id": 125,
+        "customer_id": 1886,
+        "rating": 5,
+        "review_date": "2024-09-27",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1317,
+        "product_id": 185,
+        "customer_id": 1288,
+        "rating": 3,
+        "review_date": "2024-07-09",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1318,
+        "product_id": 117,
+        "customer_id": 1268,
+        "rating": 5,
+        "review_date": "2024-03-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1319,
+        "product_id": 101,
+        "customer_id": 1662,
+        "rating": 5,
+        "review_date": "2024-06-25",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1320,
+        "product_id": 128,
+        "customer_id": 1262,
+        "rating": 3,
+        "review_date": "2024-09-26",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1321,
+        "product_id": 196,
+        "customer_id": 1869,
+        "rating": 5,
+        "review_date": "2024-08-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1322,
+        "product_id": 100,
+        "customer_id": 1529,
+        "rating": 5,
+        "review_date": "2024-11-09",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1323,
+        "product_id": 172,
+        "customer_id": 1375,
+        "rating": 5,
+        "review_date": "2024-08-05",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1324,
+        "product_id": 181,
+        "customer_id": 1000,
+        "rating": 1,
+        "review_date": "2024-03-09",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1325,
+        "product_id": 147,
+        "customer_id": 1832,
+        "rating": 3,
+        "review_date": "2024-03-22",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1326,
+        "product_id": 130,
+        "customer_id": 1853,
+        "rating": 4,
+        "review_date": "2024-06-11",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1327,
+        "product_id": 197,
+        "customer_id": 1650,
+        "rating": 1,
+        "review_date": "2024-01-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1328,
+        "product_id": 168,
+        "customer_id": 1490,
+        "rating": 2,
+        "review_date": "2024-04-26",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1329,
+        "product_id": 192,
+        "customer_id": 1787,
+        "rating": 4,
+        "review_date": "2024-05-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1330,
+        "product_id": 191,
+        "customer_id": 1084,
+        "rating": 5,
+        "review_date": "2024-05-01",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1331,
+        "product_id": 132,
+        "customer_id": 1366,
+        "rating": 2,
+        "review_date": "2024-09-25",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1332,
+        "product_id": 178,
+        "customer_id": 1440,
+        "rating": 1,
+        "review_date": "2024-11-20",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1333,
+        "product_id": 103,
+        "customer_id": 1348,
+        "rating": 2,
+        "review_date": "2024-07-21",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1334,
+        "product_id": 155,
+        "customer_id": 1777,
+        "rating": 2,
+        "review_date": "2024-10-29",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1335,
+        "product_id": 128,
+        "customer_id": 1815,
+        "rating": 2,
+        "review_date": "2024-09-22",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1336,
+        "product_id": 106,
+        "customer_id": 1388,
+        "rating": 2,
+        "review_date": "2024-11-15",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1337,
+        "product_id": 146,
+        "customer_id": 1869,
+        "rating": 5,
+        "review_date": "2024-03-16",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1338,
+        "product_id": 130,
+        "customer_id": 1845,
+        "rating": 2,
+        "review_date": "2024-05-19",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1339,
+        "product_id": 168,
+        "customer_id": 1790,
+        "rating": 1,
+        "review_date": "2024-06-03",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1340,
+        "product_id": 187,
+        "customer_id": 1731,
+        "rating": 2,
+        "review_date": "2024-07-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1341,
+        "product_id": 183,
+        "customer_id": 1220,
+        "rating": 5,
+        "review_date": "2024-03-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1342,
+        "product_id": 166,
+        "customer_id": 1009,
+        "rating": 2,
+        "review_date": "2024-11-05",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1343,
+        "product_id": 196,
+        "customer_id": 1805,
+        "rating": 5,
+        "review_date": "2024-07-10",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1344,
+        "product_id": 133,
+        "customer_id": 1911,
+        "rating": 4,
+        "review_date": "2024-05-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1345,
+        "product_id": 186,
+        "customer_id": 1294,
+        "rating": 4,
+        "review_date": "2024-07-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1346,
+        "product_id": 102,
+        "customer_id": 1419,
+        "rating": 2,
+        "review_date": "2024-05-01",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1347,
+        "product_id": 194,
+        "customer_id": 1128,
+        "rating": 3,
+        "review_date": "2024-11-16",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1348,
+        "product_id": 140,
+        "customer_id": 1496,
+        "rating": 3,
+        "review_date": "2024-03-19",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1349,
+        "product_id": 151,
+        "customer_id": 1230,
+        "rating": 5,
+        "review_date": "2024-03-31",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1350,
+        "product_id": 187,
+        "customer_id": 1267,
+        "rating": 1,
+        "review_date": "2024-09-23",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1351,
+        "product_id": 176,
+        "customer_id": 1179,
+        "rating": 4,
+        "review_date": "2024-08-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1352,
+        "product_id": 158,
+        "customer_id": 1211,
+        "rating": 3,
+        "review_date": "2024-11-02",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1353,
+        "product_id": 161,
+        "customer_id": 1793,
+        "rating": 5,
+        "review_date": "2024-09-27",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1354,
+        "product_id": 182,
+        "customer_id": 1976,
+        "rating": 5,
+        "review_date": "2024-06-22",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1355,
+        "product_id": 185,
+        "customer_id": 1341,
+        "rating": 3,
+        "review_date": "2024-03-03",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1356,
+        "product_id": 153,
+        "customer_id": 1377,
+        "rating": 1,
+        "review_date": "2024-04-20",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1357,
+        "product_id": 103,
+        "customer_id": 1055,
+        "rating": 1,
+        "review_date": "2024-08-14",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1358,
+        "product_id": 121,
+        "customer_id": 1499,
+        "rating": 3,
+        "review_date": "2024-08-12",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1359,
+        "product_id": 143,
+        "customer_id": 1097,
+        "rating": 4,
+        "review_date": "2024-07-30",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1360,
+        "product_id": 121,
+        "customer_id": 1020,
+        "rating": 1,
+        "review_date": "2023-12-30",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1361,
+        "product_id": 189,
+        "customer_id": 1436,
+        "rating": 2,
+        "review_date": "2023-12-30",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1362,
+        "product_id": 111,
+        "customer_id": 1294,
+        "rating": 3,
+        "review_date": "2024-05-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1363,
+        "product_id": 134,
+        "customer_id": 1216,
+        "rating": 2,
+        "review_date": "2024-04-23",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1364,
+        "product_id": 185,
+        "customer_id": 1662,
+        "rating": 4,
+        "review_date": "2024-12-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1365,
+        "product_id": 174,
+        "customer_id": 1863,
+        "rating": 3,
+        "review_date": "2024-07-25",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1366,
+        "product_id": 125,
+        "customer_id": 1159,
+        "rating": 5,
+        "review_date": "2024-09-09",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1367,
+        "product_id": 188,
+        "customer_id": 1983,
+        "rating": 5,
+        "review_date": "2024-07-04",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1368,
+        "product_id": 187,
+        "customer_id": 1331,
+        "rating": 4,
+        "review_date": "2024-04-28",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1369,
+        "product_id": 108,
+        "customer_id": 1242,
+        "rating": 1,
+        "review_date": "2024-04-26",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1370,
+        "product_id": 102,
+        "customer_id": 1202,
+        "rating": 1,
+        "review_date": "2024-01-07",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1371,
+        "product_id": 148,
+        "customer_id": 1073,
+        "rating": 1,
+        "review_date": "2024-10-09",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1372,
+        "product_id": 170,
+        "customer_id": 1991,
+        "rating": 3,
+        "review_date": "2024-03-08",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1373,
+        "product_id": 134,
+        "customer_id": 1804,
+        "rating": 3,
+        "review_date": "2024-09-20",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1374,
+        "product_id": 163,
+        "customer_id": 1534,
+        "rating": 2,
+        "review_date": "2024-06-20",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1375,
+        "product_id": 133,
+        "customer_id": 1980,
+        "rating": 5,
+        "review_date": "2024-07-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1376,
+        "product_id": 180,
+        "customer_id": 1927,
+        "rating": 2,
+        "review_date": "2024-04-21",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1377,
+        "product_id": 169,
+        "customer_id": 1222,
+        "rating": 3,
+        "review_date": "2024-04-26",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1378,
+        "product_id": 101,
+        "customer_id": 1629,
+        "rating": 3,
+        "review_date": "2024-11-12",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1379,
+        "product_id": 123,
+        "customer_id": 1008,
+        "rating": 1,
+        "review_date": "2024-01-19",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1380,
+        "product_id": 129,
+        "customer_id": 1845,
+        "rating": 2,
+        "review_date": "2024-04-18",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1381,
+        "product_id": 193,
+        "customer_id": 1244,
+        "rating": 4,
+        "review_date": "2024-03-08",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1382,
+        "product_id": 143,
+        "customer_id": 1623,
+        "rating": 5,
+        "review_date": "2024-07-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1383,
+        "product_id": 131,
+        "customer_id": 1200,
+        "rating": 4,
+        "review_date": "2024-11-17",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1384,
+        "product_id": 199,
+        "customer_id": 1643,
+        "rating": 1,
+        "review_date": "2024-01-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1385,
+        "product_id": 155,
+        "customer_id": 1811,
+        "rating": 1,
+        "review_date": "2024-04-12",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1386,
+        "product_id": 161,
+        "customer_id": 1147,
+        "rating": 1,
+        "review_date": "2024-12-08",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1387,
+        "product_id": 137,
+        "customer_id": 1321,
+        "rating": 1,
+        "review_date": "2024-10-04",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1388,
+        "product_id": 125,
+        "customer_id": 1461,
+        "rating": 5,
+        "review_date": "2023-12-30",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1389,
+        "product_id": 114,
+        "customer_id": 1743,
+        "rating": 2,
+        "review_date": "2024-10-25",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1390,
+        "product_id": 159,
+        "customer_id": 1335,
+        "rating": 5,
+        "review_date": "2024-09-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1391,
+        "product_id": 115,
+        "customer_id": 1660,
+        "rating": 4,
+        "review_date": "2024-10-04",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1392,
+        "product_id": 154,
+        "customer_id": 1592,
+        "rating": 5,
+        "review_date": "2024-03-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1393,
+        "product_id": 158,
+        "customer_id": 1061,
+        "rating": 2,
+        "review_date": "2024-10-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1394,
+        "product_id": 190,
+        "customer_id": 1106,
+        "rating": 2,
+        "review_date": "2024-07-18",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1395,
+        "product_id": 136,
+        "customer_id": 1314,
+        "rating": 1,
+        "review_date": "2024-08-11",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1396,
+        "product_id": 105,
+        "customer_id": 1793,
+        "rating": 1,
+        "review_date": "2024-02-04",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1397,
+        "product_id": 130,
+        "customer_id": 1971,
+        "rating": 3,
+        "review_date": "2024-09-30",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1398,
+        "product_id": 122,
+        "customer_id": 1000,
+        "rating": 1,
+        "review_date": "2024-10-15",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1399,
+        "product_id": 123,
+        "customer_id": 1243,
+        "rating": 5,
+        "review_date": "2024-05-03",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1400,
+        "product_id": 154,
+        "customer_id": 1034,
+        "rating": 5,
+        "review_date": "2024-03-22",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1401,
+        "product_id": 180,
+        "customer_id": 1630,
+        "rating": 3,
+        "review_date": "2024-10-02",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1402,
+        "product_id": 123,
+        "customer_id": 1306,
+        "rating": 4,
+        "review_date": "2024-07-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1403,
+        "product_id": 161,
+        "customer_id": 1271,
+        "rating": 2,
+        "review_date": "2024-12-01",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1404,
+        "product_id": 182,
+        "customer_id": 1080,
+        "rating": 5,
+        "review_date": "2024-06-24",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1405,
+        "product_id": 109,
+        "customer_id": 1528,
+        "rating": 5,
+        "review_date": "2024-10-28",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1406,
+        "product_id": 111,
+        "customer_id": 1155,
+        "rating": 1,
+        "review_date": "2024-04-14",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1407,
+        "product_id": 132,
+        "customer_id": 1577,
+        "rating": 5,
+        "review_date": "2024-07-02",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1408,
+        "product_id": 113,
+        "customer_id": 1505,
+        "rating": 4,
+        "review_date": "2024-10-07",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1409,
+        "product_id": 110,
+        "customer_id": 1441,
+        "rating": 4,
+        "review_date": "2024-04-15",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1410,
+        "product_id": 140,
+        "customer_id": 1041,
+        "rating": 2,
+        "review_date": "2024-06-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1411,
+        "product_id": 144,
+        "customer_id": 1665,
+        "rating": 1,
+        "review_date": "2024-05-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1412,
+        "product_id": 190,
+        "customer_id": 1875,
+        "rating": 1,
+        "review_date": "2024-08-30",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1413,
+        "product_id": 147,
+        "customer_id": 1500,
+        "rating": 4,
+        "review_date": "2024-06-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1414,
+        "product_id": 102,
+        "customer_id": 1069,
+        "rating": 4,
+        "review_date": "2024-07-01",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1415,
+        "product_id": 181,
+        "customer_id": 1516,
+        "rating": 4,
+        "review_date": "2024-04-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1416,
+        "product_id": 147,
+        "customer_id": 1190,
+        "rating": 2,
+        "review_date": "2024-10-27",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1417,
+        "product_id": 178,
+        "customer_id": 1198,
+        "rating": 4,
+        "review_date": "2024-10-18",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1418,
+        "product_id": 143,
+        "customer_id": 1077,
+        "rating": 1,
+        "review_date": "2024-08-30",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1419,
+        "product_id": 167,
+        "customer_id": 1859,
+        "rating": 2,
+        "review_date": "2024-03-30",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1420,
+        "product_id": 183,
+        "customer_id": 1002,
+        "rating": 5,
+        "review_date": "2024-02-20",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1421,
+        "product_id": 147,
+        "customer_id": 1657,
+        "rating": 4,
+        "review_date": "2024-02-16",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1422,
+        "product_id": 172,
+        "customer_id": 1176,
+        "rating": 2,
+        "review_date": "2024-09-03",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1423,
+        "product_id": 200,
+        "customer_id": 1101,
+        "rating": 5,
+        "review_date": "2024-01-11",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1424,
+        "product_id": 108,
+        "customer_id": 1014,
+        "rating": 3,
+        "review_date": "2024-01-14",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1425,
+        "product_id": 188,
+        "customer_id": 1313,
+        "rating": 3,
+        "review_date": "2024-09-30",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1426,
+        "product_id": 171,
+        "customer_id": 1817,
+        "rating": 1,
+        "review_date": "2024-04-10",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1427,
+        "product_id": 190,
+        "customer_id": 1988,
+        "rating": 5,
+        "review_date": "2024-10-11",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1428,
+        "product_id": 121,
+        "customer_id": 1122,
+        "rating": 2,
+        "review_date": "2024-04-11",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1429,
+        "product_id": 163,
+        "customer_id": 1355,
+        "rating": 1,
+        "review_date": "2024-07-12",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1430,
+        "product_id": 139,
+        "customer_id": 1005,
+        "rating": 4,
+        "review_date": "2024-09-12",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1431,
+        "product_id": 119,
+        "customer_id": 1379,
+        "rating": 3,
+        "review_date": "2024-11-23",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1432,
+        "product_id": 175,
+        "customer_id": 1095,
+        "rating": 2,
+        "review_date": "2024-09-29",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1433,
+        "product_id": 169,
+        "customer_id": 1562,
+        "rating": 3,
+        "review_date": "2024-05-15",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1434,
+        "product_id": 121,
+        "customer_id": 1688,
+        "rating": 2,
+        "review_date": "2024-12-01",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1435,
+        "product_id": 194,
+        "customer_id": 1639,
+        "rating": 3,
+        "review_date": "2024-06-12",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1436,
+        "product_id": 158,
+        "customer_id": 1250,
+        "rating": 3,
+        "review_date": "2024-08-24",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1437,
+        "product_id": 176,
+        "customer_id": 1987,
+        "rating": 5,
+        "review_date": "2024-11-23",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1438,
+        "product_id": 138,
+        "customer_id": 1143,
+        "rating": 1,
+        "review_date": "2024-08-09",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1439,
+        "product_id": 187,
+        "customer_id": 1145,
+        "rating": 1,
+        "review_date": "2024-04-17",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1440,
+        "product_id": 155,
+        "customer_id": 1502,
+        "rating": 3,
+        "review_date": "2024-10-24",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1441,
+        "product_id": 130,
+        "customer_id": 1929,
+        "rating": 1,
+        "review_date": "2024-07-22",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1442,
+        "product_id": 188,
+        "customer_id": 1237,
+        "rating": 4,
+        "review_date": "2024-08-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1443,
+        "product_id": 122,
+        "customer_id": 1084,
+        "rating": 5,
+        "review_date": "2024-03-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1444,
+        "product_id": 100,
+        "customer_id": 1802,
+        "rating": 1,
+        "review_date": "2024-01-16",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1445,
+        "product_id": 125,
+        "customer_id": 1883,
+        "rating": 2,
+        "review_date": "2024-10-30",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1446,
+        "product_id": 148,
+        "customer_id": 1116,
+        "rating": 1,
+        "review_date": "2024-11-12",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1447,
+        "product_id": 143,
+        "customer_id": 1686,
+        "rating": 4,
+        "review_date": "2024-09-23",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1448,
+        "product_id": 121,
+        "customer_id": 1339,
+        "rating": 5,
+        "review_date": "2024-08-19",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1449,
+        "product_id": 108,
+        "customer_id": 1325,
+        "rating": 1,
+        "review_date": "2024-08-18",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1450,
+        "product_id": 121,
+        "customer_id": 1529,
+        "rating": 4,
+        "review_date": "2024-01-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1451,
+        "product_id": 179,
+        "customer_id": 1600,
+        "rating": 3,
+        "review_date": "2024-11-06",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1452,
+        "product_id": 173,
+        "customer_id": 1483,
+        "rating": 3,
+        "review_date": "2024-04-07",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1453,
+        "product_id": 123,
+        "customer_id": 1735,
+        "rating": 2,
+        "review_date": "2024-07-09",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1454,
+        "product_id": 152,
+        "customer_id": 1837,
+        "rating": 4,
+        "review_date": "2024-10-22",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1455,
+        "product_id": 198,
+        "customer_id": 1645,
+        "rating": 4,
+        "review_date": "2024-03-29",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1456,
+        "product_id": 198,
+        "customer_id": 1729,
+        "rating": 5,
+        "review_date": "2024-08-04",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1457,
+        "product_id": 106,
+        "customer_id": 1354,
+        "rating": 5,
+        "review_date": "2024-01-26",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1458,
+        "product_id": 102,
+        "customer_id": 1912,
+        "rating": 2,
+        "review_date": "2024-03-06",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1459,
+        "product_id": 178,
+        "customer_id": 1279,
+        "rating": 3,
+        "review_date": "2024-08-13",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1460,
+        "product_id": 101,
+        "customer_id": 1262,
+        "rating": 2,
+        "review_date": "2024-10-25",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1461,
+        "product_id": 134,
+        "customer_id": 1784,
+        "rating": 5,
+        "review_date": "2024-10-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1462,
+        "product_id": 116,
+        "customer_id": 1715,
+        "rating": 5,
+        "review_date": "2024-12-04",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1463,
+        "product_id": 176,
+        "customer_id": 1565,
+        "rating": 4,
+        "review_date": "2024-02-04",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1464,
+        "product_id": 198,
+        "customer_id": 1041,
+        "rating": 4,
+        "review_date": "2024-02-27",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1465,
+        "product_id": 194,
+        "customer_id": 1005,
+        "rating": 2,
+        "review_date": "2024-07-19",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1466,
+        "product_id": 179,
+        "customer_id": 1306,
+        "rating": 5,
+        "review_date": "2024-11-09",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1467,
+        "product_id": 164,
+        "customer_id": 1772,
+        "rating": 1,
+        "review_date": "2024-01-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1468,
+        "product_id": 105,
+        "customer_id": 1950,
+        "rating": 1,
+        "review_date": "2024-09-02",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1469,
+        "product_id": 174,
+        "customer_id": 1987,
+        "rating": 2,
+        "review_date": "2024-11-07",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1470,
+        "product_id": 140,
+        "customer_id": 1955,
+        "rating": 4,
+        "review_date": "2024-10-18",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1471,
+        "product_id": 131,
+        "customer_id": 1586,
+        "rating": 4,
+        "review_date": "2024-09-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1472,
+        "product_id": 123,
+        "customer_id": 1067,
+        "rating": 4,
+        "review_date": "2024-09-18",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1473,
+        "product_id": 148,
+        "customer_id": 1825,
+        "rating": 2,
+        "review_date": "2024-01-07",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1474,
+        "product_id": 143,
+        "customer_id": 1868,
+        "rating": 3,
+        "review_date": "2024-06-25",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1475,
+        "product_id": 142,
+        "customer_id": 1688,
+        "rating": 4,
+        "review_date": "2024-11-17",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1476,
+        "product_id": 134,
+        "customer_id": 1586,
+        "rating": 3,
+        "review_date": "2024-04-27",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1477,
+        "product_id": 139,
+        "customer_id": 1684,
+        "rating": 1,
+        "review_date": "2024-09-20",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1478,
+        "product_id": 100,
+        "customer_id": 1760,
+        "rating": 5,
+        "review_date": "2024-09-14",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1479,
+        "product_id": 105,
+        "customer_id": 1720,
+        "rating": 5,
+        "review_date": "2024-04-21",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1480,
+        "product_id": 148,
+        "customer_id": 1350,
+        "rating": 5,
+        "review_date": "2024-01-30",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1481,
+        "product_id": 153,
+        "customer_id": 1184,
+        "rating": 3,
+        "review_date": "2024-11-09",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1482,
+        "product_id": 172,
+        "customer_id": 1657,
+        "rating": 4,
+        "review_date": "2024-08-02",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1483,
+        "product_id": 140,
+        "customer_id": 1899,
+        "rating": 5,
+        "review_date": "2024-07-13",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1484,
+        "product_id": 158,
+        "customer_id": 1728,
+        "rating": 3,
+        "review_date": "2024-09-16",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1485,
+        "product_id": 122,
+        "customer_id": 1554,
+        "rating": 3,
+        "review_date": "2024-01-09",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1486,
+        "product_id": 181,
+        "customer_id": 1334,
+        "rating": 1,
+        "review_date": "2024-09-29",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1487,
+        "product_id": 125,
+        "customer_id": 1075,
+        "rating": 5,
+        "review_date": "2024-09-01",
+        "review_text": "Excellent"
+    },
+    {
+        "review_id": 1488,
+        "product_id": 159,
+        "customer_id": 1584,
+        "rating": 4,
+        "review_date": "2024-08-20",
+        "review_text": "Good"
+    },
+    {
+        "review_id": 1489,
+        "product_id": 155,
+        "customer_id": 1277,
+        "rating": 1,
+        "review_date": "2024-10-01",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1490,
+        "product_id": 169,
+        "customer_id": 1033,
+        "rating": 3,
+        "review_date": "2024-03-02",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1491,
+        "product_id": 174,
+        "customer_id": 1888,
+        "rating": 3,
+        "review_date": "2024-06-29",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1492,
+        "product_id": 124,
+        "customer_id": 1154,
+        "rating": 3,
+        "review_date": "2024-11-19",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1493,
+        "product_id": 130,
+        "customer_id": 1979,
+        "rating": 1,
+        "review_date": "2024-12-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1494,
+        "product_id": 159,
+        "customer_id": 1680,
+        "rating": 1,
+        "review_date": "2024-03-11",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1495,
+        "product_id": 152,
+        "customer_id": 1682,
+        "rating": 1,
+        "review_date": "2024-02-27",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1496,
+        "product_id": 140,
+        "customer_id": 1286,
+        "rating": 1,
+        "review_date": "2024-10-05",
+        "review_text": "Terrible"
+    },
+    {
+        "review_id": 1497,
+        "product_id": 190,
+        "customer_id": 1933,
+        "rating": 3,
+        "review_date": "2024-07-05",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1498,
+        "product_id": 168,
+        "customer_id": 1902,
+        "rating": 3,
+        "review_date": "2024-08-23",
+        "review_text": "Average"
+    },
+    {
+        "review_id": 1499,
+        "product_id": 136,
+        "customer_id": 1841,
+        "rating": 2,
+        "review_date": "2024-09-22",
+        "review_text": "Poor"
+    },
+    {
+        "review_id": 1500,
+        "product_id": 102,
+        "customer_id": 1867,
+        "rating": 1,
+        "review_date": "2024-07-25",
+        "review_text": "Terrible"
     }
-  ]
-  
+]

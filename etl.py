@@ -1,6 +1,7 @@
 import pandas as pd
 from textblob import TextBlob
-from database_model import createTable, insertData
+from database_model import insertData
+from datetime import datetime
 
 
 
@@ -51,17 +52,31 @@ def transform(df1, df2, df3):
 
 
 def load(df):
-    createTable()
     insertData(df)
 
 
+def log(msg):
+    time = datetime.now()
+    timestamp = time.strftime("%d-%h-%Y %H:%M")
 
-def main():
+    with open("logfile.txt", "a") as file:
+        file.write(timestamp + " -- " + msg + "\n")
+
+
+
+if __name__ == "__main__":
+    log("ETL job started.")
+
+    log("Extract phase started.")
     df1, df2, df3 = extract()
+    log("Extract phase completed.")
 
+    log("Transform phase started.")
     df = transform(df1, df2, df3)
+    log("Transform phase completed.")
 
+    log("Load phase started.")
     load(df)
+    log("Load phase completed.")
 
-
-main()
+    log("ETL job completed successfully.")
