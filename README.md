@@ -43,6 +43,7 @@ GROUP BY product_id
 ORDER BY AVG(rating) DESC
 LIMIT 3;
 ```
+![img1](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/highest_rated.png)
 
 2. Top 3 lowest rated products:
 ```sql
@@ -51,3 +52,7 @@ GROUP BY product_id
 ORDER BY AVG(rating) ASC
 LIMIT 3;
 ```
+![img2](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/lowest_rated.png)
+
+3. Sample data in database:
+![img3](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/sample_db.png)
