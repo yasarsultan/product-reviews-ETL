@@ -6,3 +6,11 @@
 25-Dec-2024 15:51 -- Load phase started.
 25-Dec-2024 15:52 -- Load phase completed.
 25-Dec-2024 15:52 -- ETL job completed successfully.
+26-Dec-2024 13:37 -- ETL job started.
+26-Dec-2024 13:37 -- Extract phase started.
+26-Dec-2024 13:37 -- Extract phase completed.
+26-Dec-2024 13:37 -- Transform phase started.
+26-Dec-2024 13:37 -- Transform phase completed.
+26-Dec-2024 13:37 -- Load phase started.
+26-Dec-2024 13:37 -- Load phase completed.
+26-Dec-2024 13:37 -- ETL job completed successfully.

@@ -1,4 +1,5 @@
 import pandas as pd
+import requests
 from textblob import TextBlob
 from database_model import insertData
 from datetime import datetime
@@ -6,10 +7,19 @@ from datetime import datetime
 
 
 def extract():
+    # Extracting data from CSV
     df_csv = pd.read_csv('sourceA/reviews.csv')
 
-    df_json = pd.read_json('sourceB/reviews.json')
+    # Extracting data from json with mock api
+    url = "http://127.0.0.1:5000/api/reviews"
+    try:
+        response = requests.get(url)
+        data = response.json()
+        df_json = pd.DataFrame(data)
+    except Exception as e:
+        df_json = pd.DataFrame()
 
+    # Extracting data from text file
     df_text = pd.DataFrame(columns=["review_id","product_id","customer_id","rating","review_date", "review_text"])
 
     with open("sourceC/reviews.txt", "r") as file:
