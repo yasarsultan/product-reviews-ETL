@@ -36,7 +36,16 @@ python3 etl.py
 ```
 
 ## SQL Queries
-1. Top 3 highest rated products:
+1. Average product ratings:
+```sql
+SELECT product_id, AVG(rating) FROM reviews
+GROUP BY product_id
+ORDER BY product_id;
+```
+![img](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/avg_ratings.png)
+![img0](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/avg_ratings_query.png)
+
+2. Top 3 highest rated products:
 ```sql
 SELECT product_id, AVG(rating) FROM reviews
 GROUP BY product_id
@@ -45,7 +54,7 @@ LIMIT 3;
 ```
 ![img1](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/highest_rated.png)
 
-2. Top 3 lowest rated products:
+3. Top 3 lowest rated products:
 ```sql
 SELECT product_id, AVG(rating) FROM reviews
 GROUP BY product_id
@@ -54,5 +63,5 @@ LIMIT 3;
 ```
 ![img2](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/lowest_rated.png)
 
-3. Sample data in database:
+4. Sample data in database:
 ![img3](https://github.com/yasarsultan/product-reviews-ETL/blob/main/images/sample_db.png)
